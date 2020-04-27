@@ -1,0 +1,31 @@
+{
+    "workbench.settings.editor": "json",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.rulers": [
+        80
+    ],
+    "editor.renderWhitespace": "selection",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.autoIndent": "advanced",
+    "editor.autoClosingBrackets": "never",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.eol": "\n",
+    "files.exclude": {
+        "**/*.exe": true
+    },
+    "[nim]": {
+        "editor.tabSize": 2
+    },
+    "[nimble]": {
+        "editor.tabSize": 2
+    },
+    "[glsl]": {
+        "editor.tabSize": 2
+    },
+    "window.zoomLevel": 0,
+    "nim.enableNimsuggest": false,
+    "git.confirmSync": false
+}
