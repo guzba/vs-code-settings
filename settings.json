@@ -27,5 +27,7 @@
     },
     "window.zoomLevel": 0,
     "nim.enableNimsuggest": false,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "tabnine.experimentalAutoImports": false,
+    "vsicons.dontShowNewVersionMessage": true
 }
