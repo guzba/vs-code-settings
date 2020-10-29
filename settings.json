@@ -1,6 +1,8 @@
 {
     "workbench.settings.editor": "json",
     "workbench.iconTheme": "vscode-icons",
+    "workbench.editor.enablePreview": false,
+    "workbench.list.openMode": "doubleClick",
     "editor.rulers": [
         80
     ],
@@ -28,6 +30,5 @@
     "window.zoomLevel": 0,
     "nim.enableNimsuggest": false,
     "git.confirmSync": false,
-    "tabnine.experimentalAutoImports": false,
     "vsicons.dontShowNewVersionMessage": true
 }
