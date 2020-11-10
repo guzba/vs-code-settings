@@ -16,7 +16,9 @@
     "files.trimFinalNewlines": true,
     "files.eol": "\n",
     "files.exclude": {
-        "**/*.exe": true
+        "**/*.exe": true,
+        "**/*.ilk": true,
+        "**/*.pdb": true
     },
     "[nim]": {
         "editor.tabSize": 2
