@@ -29,8 +29,9 @@
     "[glsl]": {
         "editor.tabSize": 2
     },
-    "window.zoomLevel": 0,
     "nim.enableNimsuggest": false,
     "git.confirmSync": false,
-    "vsicons.dontShowNewVersionMessage": true
+    "vsicons.dontShowNewVersionMessage": true,
+    "scm.diffDecorationsGutterAction": "none",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
 }
