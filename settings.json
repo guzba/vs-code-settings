@@ -33,4 +33,14 @@
     "git.confirmSync": false,
     "vsicons.dontShowNewVersionMessage": true,
     "scm.diffDecorationsGutterAction": "none",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "python.showStartPage": false,
+    "terminal.integrated.tabs.enabled": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "workbench.editor.untitled.hint": "hidden"
 }
