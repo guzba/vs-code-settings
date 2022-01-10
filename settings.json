@@ -2,6 +2,7 @@
     "workbench.settings.editor": "json",
     "workbench.iconTheme": "vscode-icons",
     "workbench.editor.enablePreview": false,
+    "workbench.editor.revealIfOpen": true,
     "workbench.list.openMode": "doubleClick",
     "editor.rulers": [
         80
